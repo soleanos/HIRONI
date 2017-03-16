@@ -4,6 +4,7 @@
     "declaration": false,
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
+    "es6-promise": "^3.0.2",
     "experimentalDecorators": true,
     "lib": [
       "es2016",
